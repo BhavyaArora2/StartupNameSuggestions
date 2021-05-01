@@ -1,0 +1,7 @@
+from Class components - state, lifecycle methods etc. 
+to Functional components - hooks - useState, useEffect, useRef... etc.
+
+
+Template literals:
+Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them.
+#Example: `string text ${expression} string text`
